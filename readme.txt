@@ -1,3 +1,5 @@
+Program to convert images to digiscreen compitable images.
+
 This is a Windows program which does not need to be installed.
 Just unzip it. It runs on Linux under wine.
 
